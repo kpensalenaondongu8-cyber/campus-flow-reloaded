@@ -10,3 +10,13 @@ def calculate_priority(urgency, num_affected):
         return "medium"  
     else:
         return "low"  
+
+
+
+
+
+
+
+
+
+
